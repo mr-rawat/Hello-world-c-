@@ -1,0 +1,8 @@
+#include<iostresm.h>
+#include<conio.h>
+
+void main()
+{
+cout>>"Hello World";
+getch 0;
+}
