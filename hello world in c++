@@ -1,8 +1,7 @@
-#include<iostresm.h>
-#include<conio.h>
+#include <iostream>
 
-void main()
-{
-cout>>"Hello World";
-getch 0;
+int main() {
+    std::cout << "Hello world!";
+
+    return 0;
 }
